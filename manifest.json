@@ -1,0 +1,25 @@
+{
+    "name": "NeoCare Hospital Management",
+    "short_name": "NeoCare",
+    "description": "Premium Hospital Management System with Neomorphic Design",
+    "id": "/",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f4f8",
+    "theme_color": "#4a90e2",
+    "scope": ".",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
